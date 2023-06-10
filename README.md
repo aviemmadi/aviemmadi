@@ -3,8 +3,7 @@
 #### ⚡ powered by a keyboard and screen
 ###
 ## Technologies 💬
-#### Javascript, Python, Java, C, HTML5, CSS3
-#### Command Prompt, Github, Visual Studio code
+#### Javascript, Python, Java, C, HTML5, CSS3, Command Prompt, Github, Visual Studio code
 ###
 ## Learning 🌱
 #### Swift, Typescript, ML, React
