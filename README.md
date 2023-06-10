@@ -1,5 +1,15 @@
-### Hi there 👋
-
+### Hey there! 👋
+### I am Avinav Emmadi, a coding enthusiast figuring out the mechanics of programming and highschool
+### ⚡ powered by a keyboard and screen
+###
+### Technologies 💬
+### __________________________________________________________
+### Javascript, Python, Java, C, HTML5, CSS3, Github
+###
+### Learning 🌱
+### __________________________________________________________
+### Swift, Typescript, ML, React
+###
 <!--
 **aviemmadi/aviemmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
