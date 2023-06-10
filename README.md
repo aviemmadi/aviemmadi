@@ -3,11 +3,9 @@
 ### ⚡ powered by a keyboard and screen
 ###
 ## Technologies 💬
-### ----------------------------------------------------------
 ### Javascript, Python, Java, C, HTML5, CSS3, Github
 ###
 ## Learning 🌱
-### __________________________________________________________
 ### Swift, Typescript, ML, React
 ###
 <!--
