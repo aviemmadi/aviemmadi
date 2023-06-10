@@ -1,6 +1,6 @@
 ## **Hey there! 👋**
-### <sub>I am Avinav Emmadi, a coding enthusiast figuring out the mechanics of programming and highschool
-### ⚡ powered by a keyboard and screen</sub>
+### <sub>I am Avinav Emmadi, a coding enthusiast figuring out the mechanics of programming and highschool</sub>
+### <sub>⚡ powered by a keyboard and screen</sub>
 ###
 ## **Technologies 💬**
 ### <sub>Javascript, Python, Java, C, HTML5, CSS3, Command Prompt, Github, Visual Studio code</sub>
