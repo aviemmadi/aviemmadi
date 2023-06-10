@@ -1,5 +1,5 @@
 ### Hey there! 👋
-### I am Avinav Emmadi, a coding enthusiast figuring out the mechanics of programming and highschool
+# I am Avinav Emmadi, a coding enthusiast figuring out the mechanics of programming and highschool
 ### ⚡ powered by a keyboard and screen
 ###
 ### Technologies 💬
