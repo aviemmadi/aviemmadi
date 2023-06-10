@@ -1,12 +1,12 @@
-### Hey there! 👋
-# I am Avinav Emmadi, a coding enthusiast figuring out the mechanics of programming and highschool
+## Hey there! 👋
+#### I am Avinav Emmadi, a coding enthusiast figuring out the mechanics of programming and highschool
 ### ⚡ powered by a keyboard and screen
 ###
-### Technologies 💬
-### __________________________________________________________
+## Technologies 💬
+### ----------------------------------------------------------
 ### Javascript, Python, Java, C, HTML5, CSS3, Github
 ###
-### Learning 🌱
+## Learning 🌱
 ### __________________________________________________________
 ### Swift, Typescript, ML, React
 ###
