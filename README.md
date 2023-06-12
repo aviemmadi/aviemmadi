@@ -5,7 +5,7 @@
 ### <sub>Javascript, Python, Java, C, HTML5, CSS3, Command Prompt, Github, Visual Studio code</sub>
 ###
 ## **Learning 🌱**
-### <sub>Swift, Typescript, ML, React</sub>
+### <sub>React Native, Typescript, ML, React</sub>
 ###
 ### <sub>⚡ powered by a keyboard and screen</sub>
 <!--
