@@ -2,7 +2,7 @@
 ### <sub>I am Avinav Emmadi, a coding enthusiast figuring out the mechanics of programming and highschool</sub>
 ###
 ## **Technologies 💬**
-### <sub>Javascript, Python, Java, C, HTML5, CSS3, Command Prompt, Github, Visual Studio code</sub>
+### ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074](https://github.com/aviemmadi/aviemmadi/assets/111649691/09aeed87-6ebe-433f-a1aa-3a81fee60748),
 ###
 ## **Learning 🌱**
 ### <sub>React Native, Typescript, ML, React</sub>
